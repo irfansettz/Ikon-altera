@@ -1,0 +1,4 @@
+ERD: https://lucid.app/lucidchart/01639443-aada-4165-8400-ef50ca130fb7/edit?invitationId=inv_33d9424d-7645-4cde-9f58-4cf0659a49d1
+
+Use Case Diagram: https://lucid.app/lucidspark/01c4a1cb-dca1-46ea-acda-366c1bb6f2b8/edit?invitationId=inv_506eee8d-2c13-43c2-a5e2-1f306edaff0a
+

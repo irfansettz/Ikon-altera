@@ -1,0 +1,7 @@
+#redis: 
+GET * from user
+#neo4J: 
+MATCH (u:user)
+RETURN u
+#cassandra
+SELECT * FROM user;
