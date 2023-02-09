@@ -1,0 +1,326 @@
+{
+	"id": "165531c1-4259-4da1-8aeb-f1407cb41b6d",
+	"name": "ikon",
+	"timestamp": "2023-02-09T03:09:49.015Z",
+	"collection_id": "0-8b203f8c-1878-442b-8857-b5c81cbd47c7",
+	"folder_id": 0,
+	"environment_id": "2be3394d-5d0d-48bd-97b3-a5b41326e042",
+	"totalPass": 0,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "35f5f29c-02df-41ed-861e-f207f47d0fc1",
+			"name": "news api 1",
+			"url": "https://newsapi.org/v2/everything?q=apple&from=2023-02-08&to=2023-02-08&sortBy=popularity&apiKey=7f3e5d984bc5459fad0634ad6202bd92",
+			"time": 1249,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				1249
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "bf4c9feb-37c8-4982-b347-dd64a744d81a",
+			"name": "news api 2",
+			"url": "https://newsapi.org/v2/everything?q=tesla&from=2023-01-09&sortBy=publishedAt&apiKey=7f3e5d984bc5459fad0634ad6202bd92",
+			"time": 431,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				431
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "d55edded-aba1-437a-8a7f-5e52ba4ea207",
+			"name": "news api 3",
+			"url": "https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=7f3e5d984bc5459fad0634ad6202bd92",
+			"time": 318,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				318
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "256b0aea-f24e-49d9-8c71-5850f1549636",
+			"name": "news api 4",
+			"url": "https://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=7f3e5d984bc5459fad0634ad6202bd92",
+			"time": 290,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				290
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "fb84991b-f0f7-49c0-85a0-64d547561aa0",
+			"name": "news api 5",
+			"url": "https://newsapi.org/v2/everything?domains=wsj.com&apiKey=7f3e5d984bc5459fad0634ad6202bd92",
+			"time": 397,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				397
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "533258ab-a795-4051-9e0a-b81946c7001b",
+			"name": "swapi 1",
+			"url": "https://swapi.dev/api/people",
+			"time": 7452,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				7452
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "d134ea35-46a9-4610-baba-4187891e4414",
+			"name": "swapi 2",
+			"url": "https://swapi.dev/api/vehicles",
+			"time": 8208,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				8208
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "5dc03e7c-5e7b-4f65-a7d7-305705163f7e",
+			"name": "swapi 3",
+			"url": "https://swapi.dev/api/species",
+			"time": 14765,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				14765
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "9cfbfe01-c55f-4aa2-bcc4-f7860282ca23",
+			"name": "swapi 4",
+			"url": "https://swapi.dev/api/planets",
+			"time": 6751,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				6751
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "fd8dd360-9b29-4637-92e2-a9b4413aa677",
+			"name": "swapi 5",
+			"url": "https://swapi.dev/api/films",
+			"time": 18211,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				18211
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "cd74c830-e46b-4616-99e1-ee2e4ba3afcd",
+			"name": "rent book get",
+			"url": "https://virtserver.swaggerhub.com/sepulsa/RentABook-API/1.0.0/client/1",
+			"time": 3115,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				3115
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "bab24f67-9d0c-4a3d-9896-b7b973dd8cf4",
+			"name": "rent book post",
+			"url": "https://virtserver.swaggerhub.com/sepulsa/RentABook-API/1.0.0/client",
+			"time": 258,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				258
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "ccd8565c-670b-42c9-afad-2ffc91cd9b68",
+			"name": "rent book put",
+			"url": "https://virtserver.swaggerhub.com/sepulsa/RentABook-API/1.0.0/client/1",
+			"time": 272,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				272
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "8d5303af-2054-43af-b629-39a3e48f4554",
+			"name": "rent book delete",
+			"url": "https://virtserver.swaggerhub.com/sepulsa/RentABook-API/1.0.0/client/1",
+			"time": 262,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				262
+			],
+			"allTests": [
+				{}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 61979,
+	"collection": {
+		"requests": [
+			{
+				"id": "35f5f29c-02df-41ed-861e-f207f47d0fc1",
+				"method": "GET"
+			},
+			{
+				"id": "bf4c9feb-37c8-4982-b347-dd64a744d81a",
+				"method": "GET"
+			},
+			{
+				"id": "d55edded-aba1-437a-8a7f-5e52ba4ea207",
+				"method": "GET"
+			},
+			{
+				"id": "256b0aea-f24e-49d9-8c71-5850f1549636",
+				"method": "GET"
+			},
+			{
+				"id": "fb84991b-f0f7-49c0-85a0-64d547561aa0",
+				"method": "GET"
+			},
+			{
+				"id": "533258ab-a795-4051-9e0a-b81946c7001b",
+				"method": "GET"
+			},
+			{
+				"id": "d134ea35-46a9-4610-baba-4187891e4414",
+				"method": "GET"
+			},
+			{
+				"id": "5dc03e7c-5e7b-4f65-a7d7-305705163f7e",
+				"method": "GET"
+			},
+			{
+				"id": "9cfbfe01-c55f-4aa2-bcc4-f7860282ca23",
+				"method": "GET"
+			},
+			{
+				"id": "fd8dd360-9b29-4637-92e2-a9b4413aa677",
+				"method": "GET"
+			},
+			{
+				"id": "cd74c830-e46b-4616-99e1-ee2e4ba3afcd",
+				"method": "GET"
+			},
+			{
+				"id": "bab24f67-9d0c-4a3d-9896-b7b973dd8cf4",
+				"method": "POST"
+			},
+			{
+				"id": "ccd8565c-670b-42c9-afad-2ffc91cd9b68",
+				"method": "PUT"
+			},
+			{
+				"id": "8d5303af-2054-43af-b629-39a3e48f4554",
+				"method": "DELETE"
+			}
+		]
+	}
+}
