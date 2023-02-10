@@ -1,0 +1,10 @@
+link = https://github.com/irfansettz/java-project
+
+GET v1/messages
+*endpoint ini biasa digunakan untuk mengambil data, baik sebagian atau seluruh data
+
+POST v1/messages
+*endpoint ini biasa digunakan untuk meng-create data. Pada POST method biasanya juga terdapat body dalam requestnya
+
+DELETE v/messages
+*endpoint ini biasa digunakan untuk menghapus data, biasanya url dilanjutkan dengan path variabel atau path parameter
