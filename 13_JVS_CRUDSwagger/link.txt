@@ -1,1 +1,2 @@
 link = https://github.com/irfansettz/java-project
+swagger = http://localhost:85/swagger-ui/index.html
