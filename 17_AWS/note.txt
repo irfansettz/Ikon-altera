@@ -1,0 +1,2 @@
+endpoint = http://d17-crud-ikon.ap-southeast-1.elasticbeanstalk.com/v1/api/products
+note: project yg di pakai sama dengan project CRUD Swagger
