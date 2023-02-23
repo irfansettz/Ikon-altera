@@ -1,0 +1,2 @@
+github repo = https://github.com/irfansettz/JVS-CRUD-CICD
+endpoint ec2 = http://ec2-52-221-184-201.ap-southeast-1.compute.amazonaws.com/v1/api/products
