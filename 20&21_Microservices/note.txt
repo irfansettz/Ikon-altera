@@ -1,0 +1,2 @@
+link github = https://github.com/irfansettz/java-project
+*project yg digunakan untuk tugas hari ke 20 & 21 adalah project D20
